@@ -1,0 +1,11 @@
+db librfs
+
+rfs-db is an embedded, fully static indexing and high-performance data optimization database used at the filesystem level within rfs.
+
+Source files in this project must begin with the following header format:
+
+  src/filename.rs
+  SPDX-License-Identifier: GPL-3.0-or-later
+  Copyright (c) year author
+
+This header ensures consistent license attribution and copyright declaration across the codebase.
